@@ -16,8 +16,9 @@ The Parallel Lab involves working with OpenMP and parallel programming concepts 
 ## Scores
 | Lab | Score |
 | :---:   | :---: | 
-| Data Lab 0 | 5/5   |
-| Data Lab 1 | 47/47   |
-| Bomb Lab | 75/70   |
-| Attack Lab | 100/100  |
+| Data Lab 0 | 5/5  |
+| Data Lab 1 | 47/47  |
+| Bomb Lab | 75/70  |
+| Attack Lab | 100/100 |
+| Parallel Lab | 105/100 |
 
