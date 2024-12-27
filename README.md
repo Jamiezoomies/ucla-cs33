@@ -1,5 +1,7 @@
 # ucla-cs33
-UCLA Spring '24 CS 33 Course w/ Prof Glenn Reinman
+UCLA Spring '24 CS 33 Course w/ Prof Glenn Reinman.
+Introduction to Computer Organization
+Computer architecture, assembly language, and operating systems fundamentals. Number systems, machine language, and assembly language.
 
 ## Data Lab
 The Data Lab involves manipulating bitwise operations to work correctly and efficiently.
